@@ -68,13 +68,13 @@ setup(
     # requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
     install_requires=[
-        'nltk~=3.2',
+        'nltk~=3.3',
         'numpy~=1.12',
         'scipy~=1.1',
         'gensim~=0.13',
-        'scikit-learn~=0.18',
-        'keras~=2.0',
-        'h5py~=2.6',
+        'scikit-learn~=0.20',
+        'keras~=2.2',
+        'h5py~=2.8',
     ],
 
     # List additional groups of dependencies here (e.g. development
